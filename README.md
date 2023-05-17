@@ -3,7 +3,7 @@ Assignment 5 in Machine Learning class
 
 The 'Assignment5-text-analysis.ipynb' file is divided into section based on the flow:
 
-1.Data Processing: Data loading, cleaning, spliting and Feature Selection.
+1.Data Pre-Processing: Data loading, cleaning, spliting and Feature Selection.
 
 2.Model Selection: Initialization of dictionary of base models classifiers and a stacking ensemble of classifiers.
 
